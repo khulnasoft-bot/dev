@@ -13,3 +13,4 @@ fi
 tmux new-window -dn scratch
 vim .
 clear
+

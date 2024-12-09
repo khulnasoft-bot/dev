@@ -41,7 +41,7 @@ floating_modifier $mod
 bindsym $mod+Return exec "ghostty"
 
 # kill focused window
-# bindsym $mod+space exec "/home/khulnasoft-bot/dotfiles/awesome-streamerrc/KhulnaSoft-bot/tmux2"
+# bindsym $mod+space exec "/home/khulnasoft/dotfiles/awesome-streamerrc/ThePrimeagen/tmux2"
 
 bindsym $mod+Shift+q kill
 
@@ -234,3 +234,5 @@ bindsym $mod+m move workspace to output left
 
 # Suspend
 bindsym $mod+Shift+period exec systemctl suspend
+
+
